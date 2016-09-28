@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository while following GitHub's hello world tutorial. Ah, newbie!
+This is the first update I've made so far. So far so good..??
